@@ -1,66 +1,91 @@
-<h1 align="center">🚀 Hello World! I'm Jhansi</h1>
+ <h1 align="center">👋 Hello World! I'm Jhansi Lakshmi</h1>
+
 <p align="center">
-  💡 Final-year CSE (AI) Student | ☁️ Cloud Curious | 🧠 AI Explorer | 🛠️ Building Stuff That Matters
+  💻 Python Developer | 📊 Data Analytics | 🧠 AI/ML Enthusiast
+</p>
+
+<p align="center">
+  <b>CSE (Artificial Intelligence) Graduate | Open to Entry-Level Opportunities</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhansi-lakshmi-karuparthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kjhansilakshmi05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 ### 🧬 Who Am I?
 
-🎓 I'm a Computer Science student with a love for Artificial Intelligence & Cloud Technology.  
-🧠 I build models that can *see*, *understand*, and *respond*.  
-☁️ I deploy those models into the cloud where they work 24/7 — no coffee needed.  
-🧑‍🏫 Currently grinding DSA in Java, prepping for high-paying tech roles.  
-🧭 Dreaming of a role where I can code, cloud, and innovate!
+🎓 I'm a Computer Science and Engineering graduate specializing in Artificial Intelligence.
+
+🐍 I enjoy using Python to solve problems, analyze data, and develop practical applications.
+
+🧠 During my AI/ML internship, I worked on a CNN-based Brain Tumor Detection system using Python, TensorFlow, Keras, and OpenCV.
+
+📊 As a Data Analyst Intern at Amaravati Software Innovations Pvt Ltd, I worked with sales data to identify trends, explore customer behavior, and generate meaningful business insights.
+
+💡 I'm passionate about learning new technologies, exploring data, and turning ideas into useful solutions.
+
+🎯 Currently looking for entry-level opportunities in Python Development, Data Analytics, and AI/ML.
 
 ---
 
 ### 🔥 Skills That Power Me
 
-- 🧠 AI/ML: Python, TensorFlow, OpenCV, CNNs  
-- ☁️ Cloud: AWS (Lambda, S3, EC2, API Gateway, IAM, DynamoDB)  
-- 💻 Languages: Java, Python, C 
-- 🌐 Web: HTML, CSS, JavaScript 
-- ⚙️ Tools: Git, GitHub, Jupyter, VS Code 
+* 🐍 **Programming:** Python, C, C++
+* 📊 **Data Analytics:** Pandas, Plotly, Data Cleaning, Data Visualization
+* 🧠 **AI/ML:** TensorFlow, Keras, OpenCV, CNN
+* 🗄️ **Database:** SQL, MySQL
+* 🌐 **Web Technologies:** HTML, CSS, JavaScript
+* ⚙️ **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
 ### 🌟 Featured Projects
 
-🧠 **Brain Tumor Detection (AI Internship Project)**  
-Trained a CNN model to detect brain tumors using MRI scan data.  
-Used Python, TensorFlow & OpenCV.  
-Built during a real internship focused on AI in healthcare.  
+#### 🧠 Brain Tumor Detection Using CNN
 
-☁️ **AI Image Caption Generator – Powered by AWS** *(Planned)*  
-A serverless app that generates image captions using deep learning (CNN + LSTM).  
-Hosted using AWS Lambda, S3, and API Gateway.  
-A fun mix of AI creativity + cloud scalability.
+An AI/ML project focused on detecting brain tumors from MRI images using deep learning.
 
-💻 **Python DSA Practice Ground** *(In Progress)*  
-My personal Java playground for mastering Data Structures & Algorithms.  
-From recursion to trees, everything that crack interviews — lives here.
+* 🔬 Developed a CNN-based model for medical image classification.
+* 🛠️ Used Python, TensorFlow, Keras, and OpenCV.
+* 📚 Gained experience in image preprocessing, model training, and evaluation.
+
+#### 📊 Diwali Sales Data Analysis
+
+A data analytics project focused on understanding sales performance and customer purchasing patterns.
+
+* 🧹 Cleaned and explored sales data using Python.
+* 📈 Analyzed customer behavior and product performance.
+* 🛠️ Used Python, Pandas, and Plotly for analysis and visualization.
 
 ---
 
-### 🛰️ Currently Orbiting Around
+### 🛰️ Currently Exploring
 
-- Python DSA practice for product-based interviews  
-- AWS Hands-on Projects & Certifications  
-- ONGC & PSU technical prep for core CS roles  
-- Building my personal portfolio and writing blogs (soon!)
+* 🐍 Improving Python programming and problem-solving skills.
+* 📊 Strengthening data analysis and visualization techniques.
+* 🧠 Exploring machine learning and deep learning applications.
+* 🗄️ Practicing SQL and database concepts.
+* 🚀 Building practical projects to improve my technical skills and career readiness.
 
 ---
 
 ### ✨ Connect with Me
 
-- 📧 Email: `kjhansilakshmi05@gmail.com`  
-- 💼 LinkedIn: 'www.linkedin.com/in/jhansi-lakshmi-karuparthi'  
-- 🌐 Portfolio Website: [In Progress]
+* 📧 **Email:** [kjhansilakshmi05@gmail.com](mailto:kjhansilakshmi05@gmail.com)
+* 💼 **LinkedIn:** [Jhansi Lakshmi](https://www.linkedin.com/in/jhansi-lakshmi-karuparthi/)
+* 💻 **GitHub:** Explore my repositories and projects.
 
 ---
 
 <p align="center">
-  <i>“Learning machines and cloud dreams.”</i><br>
-  <b>— Jhansi ☁️💻🧠</b>
+  <i>"Turning data into insights and ideas into intelligent solutions."</i>
+  <br><br>
+  <b>— Jhansi Lakshmi 💻📊🧠</b>
 </p>
